@@ -1,0 +1,6 @@
+[
+  { "name": "The Menu", "genres": ["Comedy", "Horror", "Thriller"], "year": 2022, "type": "movie" },
+  { "name": "Free Guy", "genres": ["Action", "Comedy", "Science Fiction"], "year": 2021, "type": "movie" },
+  { "name": "Hereditary", "genres": ["Horror", "Drama", "Mystery"], "year": 2018, "type": "movie" },
+  { "name": "Jojo Rabbit", "genres": ["Comedy", "War", "Drama"], "year": 2019, "type": "movie" }
+]
