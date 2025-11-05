@@ -1,0 +1,12 @@
+{
+  "name": "my-library-sorted",
+  "version": "1.1.0",
+  "description": "Stremio catalog add-on that shows your library sorted by custom genre order.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^2.0.0"
+  }
+}
